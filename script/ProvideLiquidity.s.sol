@@ -7,7 +7,7 @@ import "../src/SwapMaker.sol";
 contract Deploy is Script {
     function run() external {
         // Address of the deployed SwapContractWithYield
-        address SwapContractAddress = 0x36bE7bD5550DD5A1B56f8D34Cf3A20b2E2E657C0;
+        address SwapContractAddress = 0xe71EAE89Dd7B325d5998C82D48d71Ff7A4c8E322;
 
         // Tokens to provide liquidity
         uint256 amountA = 50 * 10 ** 18; // Assuming tokens have 18 decimals

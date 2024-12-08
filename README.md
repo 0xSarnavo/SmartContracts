@@ -134,6 +134,7 @@ This system allows you to:
 ## **Contract Addresses**
 
 **Base:**
+My Address: https://sepolia.basescan.org/address/0x081691e61060b24d3e828FCe6a451706691f2820
 ChillToken Contract deployed at: https://sepolia.basescan.org/address/0x53D15c8369a17F163c28C8A51c2fEea4ac30a379
 EthToken Contract deployed at: https://sepolia.basescan.org/address/0xa9Bbb36CD26bcBE034E1C4e0619bfA6f0eEc48C2
 UsdcToken Contract deployed at: https://sepolia.basescan.org/address/0xfff254d049675E5377eF9f137B8BBE720dB1bF25
@@ -141,6 +142,7 @@ SwapContractWithYield deployed at: https://sepolia.basescan.org/address/0x28C62F
 Lending Contract deployed at: https://sepolia.basescan.org/address/0xB8107AE3F080a8bc612B342cC839dF25bEC2e963
 
 **Citra:**
+My Address: https://explorer.testnet.citrea.xyz/address/0x081691e61060b24d3e828FCe6a451706691f2820
 ChillToken Contract deployed at: https://explorer.testnet.citrea.xyz/address/0x73e8E00646e7DE7f135AAE385A2102fd1637d59e
 EthToken Contract deployed at: https://explorer.testnet.citrea.xyz/address/0x58CCF12593D608D871EF447d3fEC9D00f35E14E2
 UsdcToken Contract deployed at: https://explorer.testnet.citrea.xyz/address/0xbe5d45A7c0709BAb9e51337c991daBCB97c6d1eF
@@ -148,6 +150,7 @@ SwapContractWithYield deployed at: https://explorer.testnet.citrea.xyz/address/0
 Lending Contract deployed at: https://explorer.testnet.citrea.xyz/address/0xac77B823b58873572937a01b3E0CB9C417Cf637E
 
 **Polygon:**
+My Address: https://amoy.polygonscan.com/address/0x081691e61060b24d3e828FCe6a451706691f2820
 ChillToken Contract deployed at: https://amoy.polygonscan.com/address/0x41007C72d52D5389a135e993af1D6A02761595bE
 EthToken Contract deployed at: https://amoy.polygonscan.com/address/0x944eC8CD3CdA1D2abD311bd942421E7D5Bd998F1
 UsdcToken Contract deployed at: https://amoy.polygonscan.com/address/0x1eA3b9fc2ACFAB2Ee16F7515727999C52A8F9B7E
@@ -155,6 +158,7 @@ SwapContractWithYield deployed at: https://amoy.polygonscan.com/address/0x36bE7b
 Lending Contract deployed at: https://amoy.polygonscan.com/address/0x73e8E00646e7DE7f135AAE385A2102fd1637d59e
 
 **Binance Smart Chain:**
+My Address: https://opbnb-testnet.bscscan.com/address/0x081691e61060b24d3e828FCe6a451706691f2820
 ChillToken Contract deployed at: https://opbnb-testnet.bscscan.com/address/0x41007C72d52D5389a135e993af1D6A02761595bE
 EthToken Contract deployed at: https://opbnb-testnet.bscscan.com/address/0x944eC8CD3CdA1D2abD311bd942421E7D5Bd998F1
 UsdcToken Contract deployed at: https://opbnb-testnet.bscscan.com/address/0x1eA3b9fc2ACFAB2Ee16F7515727999C52A8F9B7E
@@ -162,8 +166,9 @@ SwapContractWithYield deployed at: https://opbnb-testnet.bscscan.com/address/0x3
 Lending Contract deployed at: https://opbnb-testnet.bscscan.com/address/0xe71EAE89Dd7B325d5998C82D48d71Ff7A4c8E322
 
 **Pokadot MoonBeam**
-ChillToken Contract deployed at: https://moonbase.moonscan.io/address/
-EthToken Contract deployed at: https://moonbase.moonscan.io/address/
-UsdcToken Contract deployed at: https://moonbase.moonscan.io/address/
-SwapContractWithYield deployed at: https://moonbase.moonscan.io/address/
-Lending Contract deployed at: https://moonbase.moonscan.io/address/
+My Address: https://moonbase.moonscan.io/address/0x081691e61060b24d3e828FCe6a451706691f2820
+ChillToken Contract deployed at: https://moonbase.moonscan.io/address/0x73e8E00646e7DE7f135AAE385A2102fd1637d59e
+EthToken Contract deployed at: https://moonbase.moonscan.io/address/0x58CCF12593D608D871EF447d3fEC9D00f35E14E2
+UsdcToken Contract deployed at: https://moonbase.moonscan.io/address/0xbe5d45A7c0709BAb9e51337c991daBCB97c6d1eF
+SwapContractWithYield deployed at: https://moonbase.moonscan.io/address/0xe71EAE89Dd7B325d5998C82D48d71Ff7A4c8E322
+Lending Contract deployed at: https://moonbase.moonscan.io/address/0xac77B823b58873572937a01b3E0CB9C417Cf637E

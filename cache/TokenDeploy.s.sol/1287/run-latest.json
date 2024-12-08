@@ -1,0 +1,13 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://rpc.testnet.moonbeam.network"
+    },
+    {
+      "rpc": "https://rpc.testnet.moonbeam.network"
+    },
+    {
+      "rpc": "https://rpc.testnet.moonbeam.network"
+    }
+  ]
+}
